@@ -1,0 +1,31 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.realdealagency.lastapp"
+    },
+    "onesignal-cordova-plugin": {
+      "PACKAGE_NAME": "com.realdealagency.lastapp"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.realdealagency.lastapp"
+    },
+    "cordova-admob": {
+      "PACKAGE_NAME": "com.realdealagency.lastapp"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-connectivity-monitor": {
+      "PACKAGE_NAME": "com.realdealagency.lastapp"
+    },
+    "cordova-play-services-version-adapter": {
+      "PACKAGE_NAME": "com.realdealagency.lastapp"
+    }
+  }
+}

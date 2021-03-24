@@ -1,0 +1,4 @@
+#Wed Mar 24 21:58:15 EET 2021
+base.0=D\:\\test_github\\ebekala2\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

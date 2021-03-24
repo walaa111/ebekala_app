@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\8.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="2cc1c6a36b816f056031023600522315c330a9cc">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\17.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="2cdb379a755f8ad325164eee1ba941d05492c270">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\3.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="37f4d04e2481590e2903bd9a68070d5d352e2d89">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\20.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="8691d68f2f82cc704da7bb7b90133a97e03fcd9f">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\6.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="4fbaa14988f3dfa73316cb3631ff992a6326be8f">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\15.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="5b247082ceb841dedf9d55c7700fe17b5355b9c4">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\27.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="fc1fb42f9e080e1ec73cbd40c4d267a5707ce763">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\5.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="623238b9765c2207503307def3743a6689fe0e9d">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="d7e08739877282b6b9d57d6130408709358fc6c1">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\14.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="41bb1693b638a777df6dc6d4ad89d4c79af9b2a5">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="47f6c1b6c0de4dd42c16bd0a917c3c3eb148a9f2">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\11.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="bf1abf35fe95fe75ca03cf950eabc1367d96600e">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\12.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="8d05c7e5c77011ae6df2ae05030e2e45b2403bd2">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\19.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="e70bb91d0f2a6a210603265f464de009433b2818">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\7.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="966e540adbcf67e9dd4c52e4bfcf4a858ce292b9">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\9.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="563541b6918038354d4d276f95a4dc9191b4dc77">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\13.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="d78c5de8bd5b773c13133b3e89b385a841b87043">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\26.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="4fa32851391093c4692efeae51947c58c618937d">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\22.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="4cf098515d2e0dc5a22a7a94e00af13b3dfd6ebe">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\16.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="01316761a97a480031f1c7ccab8e02302edc746d">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\23.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="442580896d1367c4c96e5f55cc1d85350719e82a">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\24.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="c369fc9265e8f1a8c9bf2af4946b5dfe89314253">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\18.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="e9e1b36d5726dddf4fff651c725cef5c4bf5abe3">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\4.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="84f335c19d8f1e43604e6dd06527090c3517bc66">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\10.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="4cfd08977eb088132c0de675a313175ac6706376">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\25.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="b87790cf65fa8081e9503be7f61c8a515999b2eb">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\desugar\release\21.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="30.0.3"
+        sha1="24c2234a1ccd068eba00ec2e27c97b0fac6efa40">
+        <dex dex="D:\test_github\ebekala2\platforms\android\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+
+</items>
